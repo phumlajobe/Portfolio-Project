@@ -31,25 +31,38 @@ h1 {
     font-size: 42px;
 }
 
-.about-section h1 {
+.content h1 {
     font-size: 64px;
     line-height: 80px;
 }
 
-.about-section-content {
+.content {
     padding: 30px;
+
 }
 
-.about-section {
+.content-container {
     padding: 60px 20px;
+    text-align: center;
 }
 
-.about-section h2 {
+.content h2 {
     font-size: 18px;
     font-family: var(--default-font-fimaly);
 }
 
-.about-section .img-fluid {
+.content h3 {
+    font-size: 24px;
+    line-height: 1.5;
+    margin: 20px 0 0;
+    font-family: var(--default-font-fimaly);
+}
+
+.content p {
+    font-size: 14px;
+}
+
+.content-container .img-fluid {
   /*max-width: 70%;*/
   height: 80%;
 }
@@ -135,7 +148,7 @@ p {
         text-align: center;
     }
 
-    .about-section {
+    .content-container {
         padding: 0;
         text-align: center;
     }
