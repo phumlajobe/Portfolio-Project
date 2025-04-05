@@ -24,7 +24,7 @@ h1 {
     line-height: 1.4;
 }
 
-h4 {
+h3 {
     font-size: 48px;
 }
 
@@ -46,7 +46,7 @@ h4 {
 }
 
 .content-container {
-    padding: 60px 20px;
+    padding: 10px 20px;
     text-align: center;
 }
 
@@ -76,7 +76,7 @@ h4 {
 .hero {
     background-color: var(--secondary-color);
     text-align: center;
-    padding: 120px 20px;
+    padding: 100px 20px;
 }
 
 .hero p {
@@ -225,7 +225,7 @@ footer .social-links a:hover {
         line-height: 1.4
     }
 
-    h4 {
+    h3 {
         font-size: 20px;
     }
 
@@ -243,7 +243,7 @@ footer .social-links a:hover {
     }
 
     .hero {
-        padding: 80px 20px;
+        padding: 60px 20px;
     }
 
     .project-description {
